@@ -28,7 +28,7 @@ Tengo experiencia en proyectos de diseño de material didáctico y educativo, di
 ## 📫 Contacto
 <p>Si deseas colaborar conmigo puedes contactarme a través de mi correo o LinkedIn </p> 
 <a href="mailto:jocastro085@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jocastro085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/josefa-castro-sandoval-a9ab40259/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/josefa-castro-sandoval/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
